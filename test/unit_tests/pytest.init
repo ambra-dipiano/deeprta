@@ -1,0 +1,14 @@
+# *****************************************************************************
+# Copyright (C) 2023 INAF
+# This software is distributed under the terms of the BSD-3-Clause license
+#
+# Authors:
+# Ambra Di Piano <ambra.dipiano@inaf.it>
+# *****************************************************************************
+
+[pytest]
+python_files = test_*
+python_classes = Test*
+python_functions = test_*
+markers =
+   tmp: all tests marked by tmp
