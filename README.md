@@ -4,9 +4,7 @@ phd project on deep learning real time analysis
 
 # Installation
 
-#TODO: conda environment / docker container
-
-Finally, the software can be installed via `pip` using the following command:
+The software can be installed via `pip` using the following command:
 
 ```bash
 pip install .
@@ -19,3 +17,8 @@ pip install -e .
 ```
 
 also from the source directory.
+
+# TO DO
+
+- [ ] conda environment
+- [ ] docker container
