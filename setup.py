@@ -9,12 +9,10 @@
 import os
 from setuptools import setup, find_packages
 
-""" 
 entry_points = {'console_scripts': [
-    'command_name = deeprta.import.path.name:main',
+    'hello = deeprta.hello.hello:main',
     ]
 } 
-"""
 
 scripts_path = "deeprta"
 scripts = [scripts_path+file for file in os.listdir(scripts_path)]
