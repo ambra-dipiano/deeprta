@@ -1,6 +1,6 @@
 # custom ignores
 loadenv.sh
-deeprta/notebooks/logs
+deeprta/notebooks/*/logs
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
