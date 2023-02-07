@@ -6,15 +6,15 @@
 [submodule "cta-rta-sci"]
 	path = cta-rta-sci
 	url = git@github.com:ambra-dipiano/cta-rta-sci.git
-	branch = master
+	branch = main
 	ignore = dirty
 [submodule "rtamock"]
 	path = rtamock
 	url = git@github.com:ambra-dipiano/rtamock.git
-	branch = master
+	branch = main
 	ignore = dirty
 [submodule "rta-visibility"]
 	path = rta-visibility
 	url = git@github.com:ambra-dipiano/rta-visibility.git
-	branch = master
+	branch = main
 	ignore = dirty
