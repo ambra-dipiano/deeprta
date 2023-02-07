@@ -1,4 +1,5 @@
 # custom ignores
+*.code*
 loadenv.sh
 deeprta/notebooks/*/logs
 
